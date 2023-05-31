@@ -10,6 +10,6 @@ class demo
    }
    public static void m3()
    {
-      System.out.println("Hello All");
+      System.out.println("Hello Kaushal");
    }
 }
